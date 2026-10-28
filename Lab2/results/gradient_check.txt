@@ -1,0 +1,11 @@
+Check 1: W3 Error=0.00000000e+00 PASS
+Check 2: W2 Error=0.00000000e+00 PASS
+Check 3: W1 Error=0.00000000e+00 PASS
+Check 4: W2 Error=5.16398870e-08 PASS
+Check 5: W3 Error=5.57622240e-07 PASS
+Check 6: W1 Error=0.00000000e+00 PASS
+Check 7: W1 Error=4.61671119e-07 PASS
+Check 8: W3 Error=6.41726382e-08 PASS
+Check 9: W1 Error=0.00000000e+00 PASS
+Check 10: W3 Error=0.00000000e+00 PASS
+Result: 10/10

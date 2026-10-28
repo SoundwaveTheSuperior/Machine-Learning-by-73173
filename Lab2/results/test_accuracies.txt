@@ -1,0 +1,8 @@
+LAB 2 - TEST ACCURACY RESULTS
+
+Width=16, Learning Rate=0.001, Accuracy=10.19%
+Width=16, Learning Rate=0.01, Accuracy=10.19%
+Width=16, Learning Rate=0.1, Accuracy=23.89%
+Width=64, Learning Rate=0.001, Accuracy=10.19%
+Width=64, Learning Rate=0.01, Accuracy=10.19%
+Width=64, Learning Rate=0.1, Accuracy=90.74%

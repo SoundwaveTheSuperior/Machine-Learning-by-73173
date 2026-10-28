@@ -1,0 +1,11 @@
+Computational Timing Results
+
+Hidden Width: 16
+Forward Median: 0.056700 ms
+Backward Median: 0.085150 ms
+Backward pass took longer. It requires additional matrix multiplications to calculate gradients.
+
+Hidden Width: 64
+Forward Median: 0.132150 ms
+Backward Median: 0.116450 ms
+Forward pass took longer in this measurement. For small models, Python overhead and timing variation can affect measured performance.
