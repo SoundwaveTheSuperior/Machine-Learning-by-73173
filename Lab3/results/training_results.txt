@@ -1,0 +1,14 @@
+LAB 3 - TRAINING RESULTS
+
+MLP
+Test Accuracy: 87.46%
+Training Time: 86.98 seconds
+
+CNN
+Test Accuracy: 89.64%
+Training Time: 169.35 seconds
+
+Attention
+Test Accuracy: 83.83%
+Training Time: 212.42 seconds
+

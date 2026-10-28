@@ -1,0 +1,24 @@
+LAB 3 - COMPUTATIONAL COST ANALYSIS
+
+Model: MLP
+Parameters: 235146
+Hand FLOPs: 469504
+THOP FLOPs: 469504.0
+Batch 1 Latency: 0.2746 ms
+Batch 128 Latency: 1.0375 ms
+
+Model: CNN
+Parameters: 20490
+Hand FLOPs: 2063488
+THOP FLOPs: 2063488.0
+Batch 1 Latency: 0.3461 ms
+Batch 128 Latency: 27.7859 ms
+
+Model: Attention
+Parameters: 70794
+Hand FLOPs: 2329856
+THOP FLOPs: 1182976.0
+Batch 1 Latency: 0.7959 ms
+Batch 128 Latency: 7.5688 ms
+
+Note: Hand FLOPs are approximate and count multiply-add operations. THOP may omit functional attention operations and other unsupported layers.
